@@ -1,7 +1,8 @@
-## Telegram Portable Windows
+## Telegram Portable
 
 ### Semua source dari [telegram.org](https://telegram.org)
 
+Telegram Portable Windows
 - Dari [telegram.org](https://telegram.org/dl/desktop/win64_portable)
 <!-- https://updates.tdesktop.com/tx64/tportable-x64.3.2.5.zip -->
 - [File x64 v.3.2.5](https://github.com/threedisk/telegram-portable-dl/raw/main/windows/tportable-x64.3.2.5.zip)
