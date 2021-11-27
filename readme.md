@@ -11,3 +11,6 @@ Telegram Portable Linux
 - Dari [telegram.org](https://telegram.org/dl/desktop/linux)
 <!-- https://updates.tdesktop.com/tlinux/tsetup.3.2.4.tar.xz -->
 - [File v3.2.4.tar.xz](https://github.com/threedisk/telegram-portable-dl/raw/main/linux/tsetup.3.2.4.tar.xz)
+
+
+[Official Telegram Github ](https://github.com/telegramdesktop/tdesktop/releases)
